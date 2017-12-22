@@ -4,7 +4,7 @@ It uses your computer's webcam to detect Eyes and mouth features using facial_la
 stay closed for long periods of time or yawning is detected, then the program lets you know using an
 alarm sound.</br></br>
 **SYSTEM REQUIREMENTS**:</br></br>
-Eye-Spy should work on any OSX, Linux or Windows system with a webcam and a minimum of
+This code should work on any OSX, Linux or Windows system with a webcam and a minimum of
 4GB RAM .</br></br>
 **DEPENDENCIES**:</br></br>
 The code was run with OpenCV 3.0.0 and Python 2.7.12 .</br>
