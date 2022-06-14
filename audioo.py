@@ -10,7 +10,7 @@ import time
 import cv2
 pygame.init()
 
-print "hello"
+print "how are you"
 #pygame.mixer.music.load("alarm.wav")
 
 #pygame.mixer.music.play()
